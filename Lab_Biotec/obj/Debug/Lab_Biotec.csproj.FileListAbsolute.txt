@@ -1,0 +1,27 @@
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.csproj.GenerateResource.Cache
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Carlos Contreras\Documents\Visual Studio 2012\Projects\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.pdb

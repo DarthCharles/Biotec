@@ -1,0 +1,477 @@
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.application
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\itextsharp.xml
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.application
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+E:\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec - 08ABR\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec - 08ABR 2\Lab_Biotec - Pruebas\Lab_Biotec - Pruebas\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec - Pruebas\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\bin\Debug\itextsharp.xml
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec 10ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Lab_Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Nueva carpeta (3)\Lab_Biotec11ABRILOPS (3) doña tetitas\Lab_Biotec11ABRILOPS (2) doña\Lab_Biotec11ABRILOPS\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Contreiras\Desktop\Biotec\Lab_Biotec13ABR\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+F:\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\nodenada\Lab_Biotec20MAY\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Contreiras\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Erick\Desktop\desesperanza\todo junio\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
