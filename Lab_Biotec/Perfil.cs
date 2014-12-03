@@ -232,5 +232,11 @@ namespace Lab_Biotec
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DetallesDeudas DD = new DetallesDeudas();
+            DD.ShowDialog();
+        }
     }
 }

@@ -134,7 +134,7 @@ namespace Lab_Biotec
                 holis.ColumnHeadersHeight = 30;
                 holis.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
                 holis.Columns[0].Width = 400;
-
+                holis.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
 
                 int saldo = 0;
 

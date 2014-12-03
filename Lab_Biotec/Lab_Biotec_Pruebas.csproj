@@ -308,6 +308,7 @@
     <Content Include="Resources\1399878491_Delete.png" />
     <Content Include="Resources\1399878666_Cancel.png" />
     <Content Include="Resources\1399878701_Cancel.png" />
+    <None Include="Resources\deuda.png" />
     <None Include="Resources\excel.png" />
     <None Include="Resources\recibo.png" />
     <None Include="Resources\aceptar.png" />

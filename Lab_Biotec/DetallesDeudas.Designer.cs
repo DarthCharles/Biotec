@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DetallesDeudas));
             this.cargos = new System.Windows.Forms.DataGridView();
             this.Analisis = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Precio = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -41,18 +42,18 @@
             this.label3 = new System.Windows.Forms.Label();
             this.saldoTotal = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.button4 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.cargos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.abonos)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // cargos
@@ -148,9 +149,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(18, 79);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(300, 20);
+            this.label3.Size = new System.Drawing.Size(287, 20);
             this.label3.TabIndex = 23;
-            this.label3.Text = "Paciente: Humberto Hernandez Figueroa";
+            this.label3.Text = "Cliente: Humberto Hernandez Figueroa";
             // 
             // saldoTotal
             // 
@@ -170,6 +171,16 @@
             this.label4.Size = new System.Drawing.Size(67, 25);
             this.label4.TabIndex = 24;
             this.label4.Text = "Saldo";
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::Lab_Biotec.Properties.Resources.buscar;
+            this.pictureBox3.Location = new System.Drawing.Point(324, 75);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(22, 24);
+            this.pictureBox3.TabIndex = 27;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // button4
             // 
@@ -235,16 +246,6 @@
             this.pictureBox2.TabIndex = 10;
             this.pictureBox2.TabStop = false;
             // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::Lab_Biotec.Properties.Resources.buscar;
-            this.pictureBox3.Location = new System.Drawing.Point(324, 75);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(22, 24);
-            this.pictureBox3.TabIndex = 27;
-            this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
-            // 
             // DetallesDeudas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -266,14 +267,16 @@
             this.Controls.Add(this.abonos);
             this.Controls.Add(this.cargos);
             this.Controls.Add(this.pictureBox2);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "DetallesDeudas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "DetallesDeudas";
+            this.Text = "Detalles de Deudas";
             ((System.ComponentModel.ISupportInitialize)(this.cargos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.abonos)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

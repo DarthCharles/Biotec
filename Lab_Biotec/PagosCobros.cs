@@ -100,13 +100,14 @@ namespace Lab_Biotec
                 //elemento datagrid del control de tab (el que diga el index). 
                 holis.ColumnCount = 2;
                 holis.Columns[0].Name = "Cliente";
-                holis.Columns[1].Name = "Pago";
+                holis.Columns[1].Name = "Debe";
                 holis.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill; //ajustamos el tamaño de las columnas
                 holis.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
                 holis.ColumnHeadersDefaultCellStyle.Font = new System.Drawing.Font(new System.Drawing.Font("Microsoft Sans Serif", 10.0f), FontStyle.Bold);
                 holis.ColumnHeadersHeight = 30;
                 holis.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
                 holis.Columns[0].Width = 400;
+                holis.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
 
                 int saldo = 0;
                 foreach (string nombre in Nombres)
