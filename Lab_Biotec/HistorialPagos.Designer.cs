@@ -34,7 +34,7 @@
             this.cbaño = new System.Windows.Forms.ComboBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.SaldoDeudores = new System.Windows.Forms.TextBox();
+            this.totalPagos = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -47,6 +47,7 @@
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(591, 391);
             this.tabControl1.TabIndex = 0;
+            this.tabControl1.Selecting += new System.Windows.Forms.TabControlCancelEventHandler(this.tabControl1_Selecting);
             // 
             // pictureBox1
             // 
@@ -100,14 +101,15 @@
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // SaldoDeudores
+            // totalPagos
             // 
-            this.SaldoDeudores.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SaldoDeudores.Location = new System.Drawing.Point(491, 494);
-            this.SaldoDeudores.Name = "SaldoDeudores";
-            this.SaldoDeudores.Size = new System.Drawing.Size(117, 30);
-            this.SaldoDeudores.TabIndex = 19;
-            this.SaldoDeudores.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.totalPagos.Cursor = System.Windows.Forms.Cursors.Default;
+            this.totalPagos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.totalPagos.Location = new System.Drawing.Point(491, 494);
+            this.totalPagos.Name = "totalPagos";
+            this.totalPagos.Size = new System.Drawing.Size(117, 30);
+            this.totalPagos.TabIndex = 19;
+            this.totalPagos.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // label1
             // 
@@ -124,7 +126,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(747, 536);
-            this.Controls.Add(this.SaldoDeudores);
+            this.Controls.Add(this.totalPagos);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
@@ -149,7 +151,7 @@
         private System.Windows.Forms.ComboBox cbaño;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox SaldoDeudores;
+        private System.Windows.Forms.TextBox totalPagos;
         private System.Windows.Forms.Label label1;
     }
 }

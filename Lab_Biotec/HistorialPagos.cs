@@ -65,7 +65,7 @@ namespace Lab_Biotec
                 TabPage tab = new TabPage();
                 DataGridView tabla_tab = new DataGridView();
 
-           
+
 
                 System.Drawing.Font font = new System.Drawing.Font("Microsoft Sans Serif", 10.0f);
                 tab.Font = font;
@@ -92,19 +92,46 @@ namespace Lab_Biotec
                 tabla_tab.Anchor = (AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top | AnchorStyles.Bottom);
 
             }
+            Random rnd = new Random();
 
+            int saldo = 0;
             for (int i = 0; i < tabControl1.TabCount; i++)
             {
                 DataGridView holis = tabControl1.TabPages[i].Controls[0] as DataGridView; //recuperamos el 
                 //elemento datagrid del control de tab (el que diga el index). 
                 holis.ColumnCount = 2;
+                holis.Columns[0].Name = "Cliente";
+                holis.Columns[1].Name = "Pago";
+                holis.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill; //ajustamos el tamaño de las columnas
+                holis.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+                holis.ColumnHeadersDefaultCellStyle.Font = new System.Drawing.Font(new System.Drawing.Font("Microsoft Sans Serif", 10.0f), FontStyle.Bold);
+                holis.ColumnHeadersHeight = 30;
+                holis.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
+                holis.Columns[0].Width = 400;
+              
+
                 foreach (string nombre in Nombres)
                 {
 
-                    holis.Rows.Add(nombre, "$");
-                   
+                    int pago = rnd.Next(100, 800);
+                    holis.Rows.Add(nombre, "$" + pago);
                 }
             }
+        }
+
+        private void tabControl1_Selecting(object sender, TabControlCancelEventArgs e)
+        {
+
+            DataGridView holis = e.TabPage.Controls[0] as DataGridView;
+            int saldo = 0;
+            for (int i = 0; i < holis.RowCount; i++)
+            {
+
+
+                saldo += int.Parse(holis.Rows[i].Cells[1].Value.ToString().Substring(1));
+            }
+            totalPagos.Text = "$" +  saldo.ToString("N0");
+            
         }
     }
 }
