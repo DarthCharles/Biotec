@@ -93,7 +93,7 @@ namespace Lab_Biotec
             tabControl1.SelectedTab = tabControl1.TabPages[DateTime.Today.Month -1];
             Random rnd = new Random();
 
-            int saldo = 0;
+          
             for (int i = 0; i < tabControl1.TabCount; i++)
             {
                 DataGridView holis = tabControl1.TabPages[i].Controls[0] as DataGridView; //recuperamos el 
@@ -108,13 +108,15 @@ namespace Lab_Biotec
                 holis.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
                 holis.Columns[0].Width = 400;
 
-
+                int saldo = 0;
                 foreach (string nombre in Nombres)
                 {
 
                     int pago = rnd.Next(100, 800);
                     holis.Rows.Add(nombre, "$" + pago);
+                    saldo += pago;
                 }
+                SaldoDeudores.Text = "$" + saldo.ToString("N0");
             }
         }
 
