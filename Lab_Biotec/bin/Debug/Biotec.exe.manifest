@@ -53,14 +53,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Biotec.exe" size="3173376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Biotec.exe" size="3345408">
       <assemblyIdentity name="Biotec" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>a1rfjiEdKeaSAMxj4LQUA6IyIK8=</dsig:DigestValue>
+        <dsig:DigestValue>ypr+XUiTbg/QaG6ihF0vbq5B/8U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

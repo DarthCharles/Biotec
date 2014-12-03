@@ -31,27 +31,48 @@ namespace Lab_Biotec
                      };
 
             List<string> Nombres = new List<String>{ 
-                "Oswaldo Rodas",
-                "Irma Bracamontes Cortes",
-                "Olademis Jurado Banuelos",
-                "Cecilia Del Valle Guerra",
-                "Rosamar Hernandez Iguiniz",
-                "Myra Montano Herrera",
-                "Juaquine Nieto Jaramillo",
-                "Inez Muniz Serrano",
-                "Manuela Vallejo Vallejo",
-                "Leticia Garibay",
-                "Javier Rincon Balli",
-                "Sergio Hernández Muniz",
-                "Kasper Saenz Rael",
-                "Zumac Segura Tapia",
-                "Emilio Montejano Coy",
-                "Maria Valdez Tafoya",
-                "Kasper García Muniz",
-                "DeMario Barra Gallego",
-                "Ramirez Saso Leon",
-                "Elieis Sánchez Cruz",
-                "Luz Arizpe Padilla"
+                    "Sergio Hernández Muniz",
+                    "Javier Rincon Balli",
+                    "Cecilia Del Valle Guerra",
+                    "Francisco Costilla Cabrera",
+                    "Francisco Costilla Cabrera",
+                    "Spiro Sálazar Atencio",
+                    "Elieis Sánchez Cruz",
+                    "Rosamar Hernandez Iguiniz",
+                    "Rafael Vivar Tafoya",
+                    "Juaquine Nieto Jaramillo",
+                    "Enriqueta Maes Pérez",
+                    "Nadia Horcasitas Jaramillo",
+                    "Irma Bracamontes Cortes",
+                    "Rafael Vivar Tafoya",
+                    "Inez Muniz Serrano",
+                    "Porfirio Sántamarina Terreno",
+                    "Paulino Fernandez Castilla",
+                    "Rafael Fernandez De Hijar Castano",
+                    "Jesus-Ernesto Torres Amerlinck",
+                    "Jesus-Ernesto Torres Amerlinck",
+                    "Nadia Horcasitas Jaramillo",
+                    "Rafael Fernandez De Hijar Castano",
+                    "Porfirio Rivera Hijar",
+                    "Oswaldo Rodas",
+                    "Porfirio Sántamarina Terreno",
+                    "Emilio Montejano Coy",
+                    "Porfirio Rivera Hijar",
+                    "Luz Arizpe Padilla",
+                    "Kasper Saenz Rael",
+                    "Leticia Garibay",
+                    "Zumac Segura Tapia",
+                    "Myra Montano Herrera",
+                    "Manuela Vallejo Vallejo",
+                    "Olademis Jurado Banuelos",
+                    "Enriqueta Maes Pérez",
+                    "Paulino Fernandez Castilla",
+                    "Spiro Sálazar Atencio",
+                    "Ramirez Saso Leon",
+                    "Maria Valdez Tafoya",
+                    "DeMario Barra Gallego",
+                    "Kasper García Muniz"
+
 
                      };
 
@@ -59,6 +80,8 @@ namespace Lab_Biotec
             {
                 cbaño.Items.Add(i);
             }
+
+            cbaño.SelectedIndex = 0;
             for (int i = 0; i < 12; i++)
             {
 
@@ -92,9 +115,12 @@ namespace Lab_Biotec
                 tabla_tab.Anchor = (AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top | AnchorStyles.Bottom);
 
             }
+            tabControl1.SelectedTab = tabControl1.TabPages[DateTime.Today.Month - 1];
+
+
             Random rnd = new Random();
 
-            int saldo = 0;
+          
             for (int i = 0; i < tabControl1.TabCount; i++)
             {
                 DataGridView holis = tabControl1.TabPages[i].Controls[0] as DataGridView; //recuperamos el 
@@ -108,14 +134,19 @@ namespace Lab_Biotec
                 holis.ColumnHeadersHeight = 30;
                 holis.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
                 holis.Columns[0].Width = 400;
-              
+
+
+                int saldo = 0;
 
                 foreach (string nombre in Nombres)
                 {
 
                     int pago = rnd.Next(100, 800);
                     holis.Rows.Add(nombre, "$" + pago);
+                    saldo += pago;
                 }
+
+                totalPagos.Text = "$" + saldo.ToString("N0");
             }
         }
 
@@ -132,6 +163,11 @@ namespace Lab_Biotec
             }
             totalPagos.Text = "$" +  saldo.ToString("N0");
             
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -28,12 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PagosCobros));
-            this.deudores = new System.Windows.Forms.DataGridView();
-            this.Cliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Deuda = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.SaldoDeudores = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -43,44 +38,19 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.deudores)).BeginInit();
+            this.button4 = new System.Windows.Forms.Button();
+            this.cbaño = new System.Windows.Forms.ComboBox();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
-            // 
-            // deudores
-            // 
-            this.deudores.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.deudores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.deudores.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Cliente,
-            this.Deuda});
-            this.deudores.Location = new System.Drawing.Point(22, 138);
-            this.deudores.Name = "deudores";
-            this.deudores.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.deudores.Size = new System.Drawing.Size(554, 334);
-            this.deudores.TabIndex = 0;
-            this.deudores.TabStop = false;
-            // 
-            // Cliente
-            // 
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cliente.DefaultCellStyle = dataGridViewCellStyle1;
-            this.Cliente.HeaderText = "Cliente";
-            this.Cliente.Name = "Cliente";
-            // 
-            // Deuda
-            // 
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Deuda.DefaultCellStyle = dataGridViewCellStyle2;
-            this.Deuda.HeaderText = "Deuda";
-            this.Deuda.Name = "Deuda";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(376, 492);
+            this.label1.Location = new System.Drawing.Point(417, 522);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(60, 25);
             this.label1.TabIndex = 13;
@@ -89,7 +59,7 @@
             // SaldoDeudores
             // 
             this.SaldoDeudores.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SaldoDeudores.Location = new System.Drawing.Point(459, 489);
+            this.SaldoDeudores.Location = new System.Drawing.Point(500, 519);
             this.SaldoDeudores.Name = "SaldoDeudores";
             this.SaldoDeudores.Size = new System.Drawing.Size(117, 30);
             this.SaldoDeudores.TabIndex = 14;
@@ -110,7 +80,7 @@
             // 
             this.consul.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.consul.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.consul.Location = new System.Drawing.Point(124, 103);
+            this.consul.Location = new System.Drawing.Point(165, 103);
             this.consul.Name = "consul";
             this.consul.Size = new System.Drawing.Size(452, 26);
             this.consul.TabIndex = 20;
@@ -128,7 +98,7 @@
             // button3
             // 
             this.button3.Image = global::Lab_Biotec.Properties.Resources.button2_Image;
-            this.button3.Location = new System.Drawing.Point(583, 205);
+            this.button3.Location = new System.Drawing.Point(629, 241);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(113, 61);
             this.button3.TabIndex = 15;
@@ -139,11 +109,11 @@
             // button2
             // 
             this.button2.Image = global::Lab_Biotec.Properties.Resources.money;
-            this.button2.Location = new System.Drawing.Point(583, 411);
+            this.button2.Location = new System.Drawing.Point(629, 447);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(113, 61);
             this.button2.TabIndex = 12;
-            this.button2.Text = "Ver Historial de Pagos";
+            this.button2.Text = "Ver Historial de Pagos Saldados";
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -151,7 +121,7 @@
             // button1
             // 
             this.button1.Image = global::Lab_Biotec.Properties.Resources.info;
-            this.button1.Location = new System.Drawing.Point(582, 138);
+            this.button1.Location = new System.Drawing.Point(628, 174);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(113, 61);
             this.button1.TabIndex = 11;
@@ -163,17 +133,63 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Lab_Biotec.Properties.Resources.small;
-            this.pictureBox2.Location = new System.Drawing.Point(489, 12);
+            this.pictureBox2.Location = new System.Drawing.Point(531, 12);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(206, 61);
             this.pictureBox2.TabIndex = 9;
             this.pictureBox2.TabStop = false;
             // 
+            // button4
+            // 
+            this.button4.Image = global::Lab_Biotec.Properties.Resources.excel;
+            this.button4.Location = new System.Drawing.Point(628, 380);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(113, 61);
+            this.button4.TabIndex = 24;
+            this.button4.Text = "Exportar a Excel";
+            this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // cbaño
+            // 
+            this.cbaño.DropDownHeight = 150;
+            this.cbaño.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbaño.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbaño.FormattingEnabled = true;
+            this.cbaño.IntegralHeight = false;
+            this.cbaño.Location = new System.Drawing.Point(628, 135);
+            this.cbaño.Name = "cbaño";
+            this.cbaño.Size = new System.Drawing.Size(110, 24);
+            this.cbaño.TabIndex = 26;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Location = new System.Drawing.Point(28, 135);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(591, 374);
+            this.tabControl1.TabIndex = 25;
+            this.tabControl1.Selecting += new System.Windows.Forms.TabControlCancelEventHandler(this.tabControl1_Selecting);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(111, 37);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(327, 25);
+            this.label3.TabIndex = 27;
+            this.label3.Text = "Registro de Clientes con Adeudo";
+            // 
             // PagosCobros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(708, 534);
+            this.ClientSize = new System.Drawing.Size(749, 556);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.cbaño);
+            this.Controls.Add(this.tabControl1);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.consul);
@@ -183,12 +199,10 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.deudores);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PagosCobros";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pagos y Cobros";
-            ((System.ComponentModel.ISupportInitialize)(this.deudores)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
@@ -198,17 +212,18 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView deudores;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox SaldoDeudores;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Cliente;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Deuda;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox consul;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.ComboBox cbaño;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.Label label3;
     }
 }
