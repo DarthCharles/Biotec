@@ -77,7 +77,10 @@ namespace Lab_Biotec
             listBox1.Sorted = true;
             listBox1.FormattingEnabled = false;
 
-
+            foreach (Analisis item in listBox1.Items)
+            {
+                System.Diagnostics.Debug.WriteLine( item.Name );
+            }
 
             for (int i = 0; i < Resul_Analisis.ANALISIS.Count; i++)
             {

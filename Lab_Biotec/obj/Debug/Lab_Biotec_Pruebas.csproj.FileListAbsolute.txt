@@ -475,3 +475,32 @@ C:\Users\Erick\Desktop\Lab_Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj
 C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
 C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.exe
 C:\Users\Erick\Desktop\Versiones buenas\Lab_Biotec\Lab_Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\bin\Debug\Biotec.exe.config
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Biotec.exe
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Biotec.pdb
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\bin\Debug\Biotec.exe.manifest
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\bin\Debug\Biotec.application
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\bin\Debug\Biotec.exe
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\bin\Debug\Biotec.pdb
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.About.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Anal_Esp.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Configuraciones.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Correo.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Historial.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Inicio.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.NuevoCliente.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Perfil.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.RegistroHecho.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Resul_Analisis.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Properties.Resources.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.Seleccion_Analisis.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.TipoUsuario.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec_Pruebas.csproj.GenerateResource.Cache
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Biotec.exe.manifest
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Biotec.application
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.PagosCobros.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.PrecioAnalisis.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.DetallesDeudas.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.AgregarAbono.resources
+C:\Users\Charles\Documents\GitHub\Lab_Biotec\Biotec\Lab_Biotec\obj\Debug\Lab_Biotec.HistorialPagos.resources

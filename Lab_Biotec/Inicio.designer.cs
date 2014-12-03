@@ -43,14 +43,15 @@
             this.configuraciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             tablaclientes = new System.Windows.Forms.DataGridView();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.button5 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(tablaclientes)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -162,80 +163,6 @@
             tablaclientes.Size = new System.Drawing.Size(690, 322);
             tablaclientes.TabIndex = 0;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Lab_Biotec.Properties.Resources.medium;
-            this.pictureBox1.Location = new System.Drawing.Point(20, 48);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(331, 96);
-            this.pictureBox1.TabIndex = 13;
-            this.pictureBox1.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.Image = global::Lab_Biotec.Properties.Resources.add;
-            this.button1.Location = new System.Drawing.Point(20, 167);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(90, 80);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "Agregar Cliente";
-            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
-            // 
-            // button3
-            // 
-            this.button3.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button3.Image = global::Lab_Biotec.Properties.Resources.todo;
-            this.button3.Location = new System.Drawing.Point(20, 286);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(90, 80);
-            this.button3.TabIndex = 15;
-            this.button3.Text = "Mostrar Todos";
-            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click_1);
-            // 
-            // button2
-            // 
-            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button2.Image = global::Lab_Biotec.Properties.Resources.exit;
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button2.Location = new System.Drawing.Point(20, 409);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(90, 80);
-            this.button2.TabIndex = 16;
-            this.button2.Text = "Salir";
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click_1);
-            // 
-            // button4
-            // 
-            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button4.Image = global::Lab_Biotec.Properties.Resources.nfor;
-            this.button4.Location = new System.Drawing.Point(832, 167);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(90, 80);
-            this.button4.TabIndex = 17;
-            this.button4.Text = "Ver Detalles";
-            this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click_1);
-            // 
-            // button9
-            // 
-            this.button9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button9.Image = global::Lab_Biotec.Properties.Resources.buscar;
-            this.button9.Location = new System.Drawing.Point(833, 73);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(89, 28);
-            this.button9.TabIndex = 18;
-            this.button9.Text = "Limpiar";
-            this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button9.UseVisualStyleBackColor = true;
-            this.button9.Click += new System.EventHandler(this.button9_Click);
-            // 
             // label2
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
@@ -252,11 +179,99 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // button5
+            // 
+            this.button5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button5.Image = global::Lab_Biotec.Properties.Resources.cash;
+            this.button5.Location = new System.Drawing.Point(832, 286);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(90, 80);
+            this.button5.TabIndex = 20;
+            this.button5.Text = "Pagos y Cobros";
+            this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button9
+            // 
+            this.button9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button9.Image = global::Lab_Biotec.Properties.Resources.buscar;
+            this.button9.Location = new System.Drawing.Point(833, 73);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(89, 28);
+            this.button9.TabIndex = 18;
+            this.button9.Text = "Limpiar";
+            this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // button4
+            // 
+            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button4.Image = global::Lab_Biotec.Properties.Resources.nfor;
+            this.button4.Location = new System.Drawing.Point(832, 167);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(90, 80);
+            this.button4.TabIndex = 17;
+            this.button4.Text = "Ver Detalles";
+            this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click_1);
+            // 
+            // button2
+            // 
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.button2.Image = global::Lab_Biotec.Properties.Resources.exit;
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.button2.Location = new System.Drawing.Point(20, 409);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(90, 80);
+            this.button2.TabIndex = 16;
+            this.button2.Text = "Salir";
+            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
+            // 
+            // button3
+            // 
+            this.button3.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.button3.Image = global::Lab_Biotec.Properties.Resources.todo;
+            this.button3.Location = new System.Drawing.Point(20, 286);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(90, 80);
+            this.button3.TabIndex = 15;
+            this.button3.Text = "Mostrar Todos";
+            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+            // 
+            // button1
+            // 
+            this.button1.Image = global::Lab_Biotec.Properties.Resources.add;
+            this.button1.Location = new System.Drawing.Point(20, 167);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(90, 80);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Agregar Cliente";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Lab_Biotec.Properties.Resources.medium;
+            this.pictureBox1.Location = new System.Drawing.Point(20, 48);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(331, 96);
+            this.pictureBox1.TabIndex = 13;
+            this.pictureBox1.TabStop = false;
+            // 
             // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(954, 529);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button4);
@@ -304,6 +319,7 @@
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button button5;
         public static System.Windows.Forms.DataGridView tablaclientes;
     }
 }

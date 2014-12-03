@@ -191,6 +191,12 @@ namespace Lab_Biotec
 
         }
 
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            PrecioAnalisis PA = new PrecioAnalisis();
+            PA.ShowDialog();
+        }
+
 
     }
 }

@@ -104,6 +104,12 @@
     <Compile Include="About.Designer.cs">
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
+    <Compile Include="AgregarAbono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarAbono.Designer.cs">
+      <DependentUpon>AgregarAbono.cs</DependentUpon>
+    </Compile>
     <Compile Include="Analisis.cs" />
     <Compile Include="Anal_Esp.cs">
       <SubType>Form</SubType>
@@ -125,11 +131,23 @@
     <Compile Include="Correo.designer.cs">
       <DependentUpon>Correo.cs</DependentUpon>
     </Compile>
+    <Compile Include="DetallesDeudas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesDeudas.Designer.cs">
+      <DependentUpon>DetallesDeudas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Historial.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Historial.designer.cs">
       <DependentUpon>Historial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorialPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialPagos.Designer.cs">
+      <DependentUpon>HistorialPagos.cs</DependentUpon>
     </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
@@ -143,11 +161,23 @@
     <Compile Include="NuevoCliente.designer.cs">
       <DependentUpon>NuevoCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="PagosCobros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagosCobros.Designer.cs">
+      <DependentUpon>PagosCobros.cs</DependentUpon>
+    </Compile>
     <Compile Include="Perfil.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Perfil.designer.cs">
       <DependentUpon>Perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrecioAnalisis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrecioAnalisis.Designer.cs">
+      <DependentUpon>PrecioAnalisis.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -184,6 +214,9 @@
       <DependentUpon>About.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="AgregarAbono.resx">
+      <DependentUpon>AgregarAbono.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Anal_Esp.resx">
       <DependentUpon>Anal_Esp.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -194,8 +227,14 @@
     <EmbeddedResource Include="Correo.resx">
       <DependentUpon>Correo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DetallesDeudas.resx">
+      <DependentUpon>DetallesDeudas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Historial.resx">
       <DependentUpon>Historial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialPagos.resx">
+      <DependentUpon>HistorialPagos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
@@ -205,9 +244,15 @@
       <DependentUpon>NuevoCliente.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="PagosCobros.resx">
+      <DependentUpon>PagosCobros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Perfil.resx">
       <DependentUpon>Perfil.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrecioAnalisis.resx">
+      <DependentUpon>PrecioAnalisis.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RegistroHecho.resx">
       <DependentUpon>RegistroHecho.cs</DependentUpon>
@@ -263,6 +308,13 @@
     <Content Include="Resources\1399878491_Delete.png" />
     <Content Include="Resources\1399878666_Cancel.png" />
     <Content Include="Resources\1399878701_Cancel.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\recibo.png" />
+    <None Include="Resources\aceptar.png" />
+    <None Include="Resources\ic_action_action_settings.png" />
+    <None Include="Resources\money.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\cash.png" />
     <None Include="Resources\1399878701_Cancel1.png" />
     <None Include="Resources\sendmailo.png" />
     <None Include="Resources\sendmail1.png" />

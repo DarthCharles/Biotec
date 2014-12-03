@@ -242,6 +242,12 @@ namespace Lab_Biotec
                 }
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            PagosCobros PC = new PagosCobros();
+            PC.ShowDialog();
+        }
+
 
     }
 }

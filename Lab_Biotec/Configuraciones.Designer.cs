@@ -30,8 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Configuraciones));
             this.folder = new System.Windows.Forms.FolderBrowserDialog();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
             this.rectangleShape3 = new Microsoft.VisualBasic.PowerPacks.RectangleShape();
             this.rectangleShape2 = new Microsoft.VisualBasic.PowerPacks.RectangleShape();
@@ -48,31 +46,12 @@
             this.label9 = new System.Windows.Forms.Label();
             this.tbserver = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.rectangleShape1 = new Microsoft.VisualBasic.PowerPacks.RectangleShape();
+            this.label5 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Image = global::Lab_Biotec.Properties.Resources.button1_Image;
-            this.button1.Location = new System.Drawing.Point(63, 374);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 48);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Guardar";
-            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Image = global::Lab_Biotec.Properties.Resources.button2_Image;
-            this.button2.Location = new System.Drawing.Point(249, 374);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 48);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "Cancelar";
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // shapeContainer1
             // 
@@ -80,9 +59,10 @@
             this.shapeContainer1.Margin = new System.Windows.Forms.Padding(0);
             this.shapeContainer1.Name = "shapeContainer1";
             this.shapeContainer1.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
+            this.rectangleShape1,
             this.rectangleShape3,
             this.rectangleShape2});
-            this.shapeContainer1.Size = new System.Drawing.Size(416, 441);
+            this.shapeContainer1.Size = new System.Drawing.Size(416, 523);
             this.shapeContainer1.TabIndex = 8;
             this.shapeContainer1.TabStop = false;
             // 
@@ -90,7 +70,7 @@
             // 
             this.rectangleShape3.BorderColor = System.Drawing.Color.LightGray;
             this.rectangleShape3.CornerRadius = 3;
-            this.rectangleShape3.Location = new System.Drawing.Point(15, 209);
+            this.rectangleShape3.Location = new System.Drawing.Point(15, 287);
             this.rectangleShape3.Name = "rectangleShape3";
             this.rectangleShape3.Size = new System.Drawing.Size(386, 145);
             // 
@@ -163,7 +143,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(18, 205);
+            this.label8.Location = new System.Drawing.Point(18, 281);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(197, 16);
             this.label8.TabIndex = 11;
@@ -171,7 +151,7 @@
             // 
             // bexportar
             // 
-            this.bexportar.Location = new System.Drawing.Point(33, 234);
+            this.bexportar.Location = new System.Drawing.Point(33, 305);
             this.bexportar.Name = "bexportar";
             this.bexportar.Size = new System.Drawing.Size(146, 29);
             this.bexportar.TabIndex = 3;
@@ -181,7 +161,7 @@
             // 
             // bimportar
             // 
-            this.bimportar.Location = new System.Drawing.Point(232, 234);
+            this.bimportar.Location = new System.Drawing.Point(232, 305);
             this.bimportar.Name = "bimportar";
             this.bimportar.Size = new System.Drawing.Size(146, 29);
             this.bimportar.TabIndex = 4;
@@ -191,7 +171,7 @@
             // 
             // bdadmin
             // 
-            this.bdadmin.Location = new System.Drawing.Point(229, 322);
+            this.bdadmin.Location = new System.Drawing.Point(229, 393);
             this.bdadmin.Name = "bdadmin";
             this.bdadmin.Size = new System.Drawing.Size(153, 20);
             this.bdadmin.TabIndex = 6;
@@ -201,7 +181,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(33, 322);
+            this.label9.Location = new System.Drawing.Point(33, 393);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(187, 16);
             this.label9.TabIndex = 14;
@@ -209,7 +189,7 @@
             // 
             // tbserver
             // 
-            this.tbserver.Location = new System.Drawing.Point(229, 286);
+            this.tbserver.Location = new System.Drawing.Point(229, 357);
             this.tbserver.Name = "tbserver";
             this.tbserver.Size = new System.Drawing.Size(153, 20);
             this.tbserver.TabIndex = 5;
@@ -219,17 +199,71 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(33, 286);
+            this.label1.Location = new System.Drawing.Point(33, 357);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(142, 16);
             this.label1.TabIndex = 17;
             this.label1.Text = "Dirección del servidor:";
             // 
+            // rectangleShape1
+            // 
+            this.rectangleShape1.BorderColor = System.Drawing.Color.LightGray;
+            this.rectangleShape1.CornerRadius = 3;
+            this.rectangleShape1.Location = new System.Drawing.Point(15, 199);
+            this.rectangleShape1.Name = "rectangleShape1";
+            this.rectangleShape1.Size = new System.Drawing.Size(386, 75);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(18, 190);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(158, 16);
+            this.label5.TabIndex = 18;
+            this.label5.Text = "Configuración de Precios";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(133, 223);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(146, 29);
+            this.button3.TabIndex = 19;
+            this.button3.Text = "Modificar precio de analisis";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+            // 
+            // button2
+            // 
+            this.button2.Image = global::Lab_Biotec.Properties.Resources.button2_Image;
+            this.button2.Location = new System.Drawing.Point(250, 461);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(96, 48);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "Cancelar";
+            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Image = global::Lab_Biotec.Properties.Resources.button1_Image;
+            this.button1.Location = new System.Drawing.Point(63, 461);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(96, 48);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Guardar";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Configuraciones
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(416, 441);
+            this.ClientSize = new System.Drawing.Size(416, 523);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbserver);
             this.Controls.Add(this.bdadmin);
@@ -278,5 +312,8 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox tbserver;
         private System.Windows.Forms.Label label1;
+        private Microsoft.VisualBasic.PowerPacks.RectangleShape rectangleShape1;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button3;
     }
 }
